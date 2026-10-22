@@ -1,4 +1,4 @@
-# department_library_service
+# department_liprary_service
 
 # Электронная библиотека кафедры
 
