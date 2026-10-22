@@ -1,1 +1,10 @@
-# department_liprary_service
+# department_library_service
+
+# Электронная библиотека кафедры
+
+**Сервис для управления библиотечным фондом, поиска и бронирования учебной литературы.**
+
+## Ссылки проекта
+* **Доска задач (Kanban):** https://github.com/users/ivankurnosov-dev/projects/1
+* **Документация ЛР 1 (Планирование):** [Папка docs/01-planning](./docs/01-planning)
+* **Версия для проверки ЛР 1:** тег `lab1`
